@@ -1,0 +1,24 @@
+<!Doctype HTML>
+<html>
+ <head> 
+ <title> Приклад внутрішніх таблиць стилів CSS </title> 
+    <meta charset ="UTF-8">  
+ </head>
+<BODY>
+<p style="font-size : medium;
+	        font-family : Arial;
+	        font-weight : bold;
+	        font-style : normal;
+	        color : green;
+	        text-decoration :blink;
+	        text-align : left;
+	        text-indent : 10%;
+	        text-transform : uppercase;
+	        line-height: 20pt;
+	        background-color : pink">
+
+ У попередніх роботах виконувалися прості стильові призначення за допомогою тегу <font>, задаючи значення його атрибутів color і size. Деякі стильові призначення можна задавати за допомогою атрибутів відповідних тегів. В цій роботі ознайомимося зі способами управління стилем документа або окремих його фрагментів. Стильові призначення, сприймаються браузерами, неоднаково. Перерахуємо деякі основні стильові призначення.
+
+</p>
+</body>
+</html>
