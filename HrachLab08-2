@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>IvanennkoLab08-2</title>
+<style>
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 20px;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+h2 {
+  color: #007bff;
+  border-bottom: 2px solid #007bff;
+  padding-bottom: 5px;
+}
+
+p {
+  margin-bottom: 15px;
+}
+
+.section {
+  background-color: #fff;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.section h3 {
+  color: #007bff;
+  margin-top: 0;
+}
+</style>
+</head>
+<body>
+
+<h2>Заголовок документа</h2>
+
+<p>Це перший абзац документа. Він містить основний текст і пояснює основну ідею.</p>
+
+<p>Другий абзац продовжує розвивати тему, розпочату в першому абзаці. Тут можна додати більше деталей та прикладів.</p>
+
+<div class="section">
+  <h3>Розділ 1</h3>
+  <p>Цей розділ містить додаткову інформацію, пов'язану з основним текстом. Він може включати підзаголовки, списки та інші елементи.</p>
+  <p>Тут можна додати ще один абзац для цього розділу, щоб детальніше розкрити тему.</p>
+</div>
+
+<div class="section">
+  <h3>Розділ 2</h3>
+  <p>Цей розділ присвячений іншій темі, але також пов'язаний з основним текстом. Він може містити власні підзаголовки та абзаци.</p>
+  <p>Тут можна додати ще один абзац для цього розділу, щоб детальніше розкрити тему.</p>
+</div>
+
+</body>
+</html>
